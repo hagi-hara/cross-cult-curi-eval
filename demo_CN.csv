@@ -1,0 +1,426 @@
+Country,Questionnaire,Condition,Participant_ID,Age_months,sex,birth_order,mother_education,father_education,responder_relation,responder_sex,responder_age_band,responder_education,responder_education_source,other_parent,other_parent_education,other_parent_education_source,monolingual,language_group_broad,exclusion_reason
+CN,ECCQ,Curiosity,CN_82329EC43CF6F0401DD4,37.389,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_03AD08D26980DB516F74,39.229,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_D82AAB59ABB8CDA9DA21,63.87,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_446ECA654E09D700EBD6,55.196,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_BD7F18E09AE6F9DB1D12,25.167,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_0DD8F08F6120DA3FBEA9,26.054,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_34FB5B129A6D2F1515E9,48.494,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_A485F46FE1AA0CD8DB6A,59.205,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_9C18C8BF6D2811D00D28,60.65,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_F338620C48CDD96FA85C,53.028,Girl,Third,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_C5D1A350503D33371E6E,63.081,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_B2898A6F6843F5FD057D,38.046,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_1FD5A8FD9198499AF10A,59.402,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_69752B9B2A8CEE10209C,47.738,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_2E7F15F9D65CEA495449,51.385,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_D6DF1C2B6F5DB95408AF,52.962,Girl,Third,Upper secondary,,Mother,Female,40+,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_EDD7DF852F4BF8F3B0A3,39.886,Girl,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_71DB71A44CB8B2B22147,38.276,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_18DB53D8F79AA0AC312C,30.095,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_A68D2D04C88D4816A583,32.329,Girl,Second,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_FDDC0B21876BF9E1723C,60.617,Boy,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_3C481FBB4DB0ADA76CE9,28.288,Boy,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_C6F9AE9302262D9E7AAB,57.299,Girl,First,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_E0C08320F6162E5FEC72,24.378,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_E14A1A76A315CD74DAF6,32.888,Girl,First,Undergraduate / bachelor,,Mother,Female,40+,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_893BC4B9FB81D9A8DD62,50.465,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_979DBEF3C3714B2CA70F,48.001,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_F72173896EDC35040FB5,62.819,Boy,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_A14EE5F63A4F97D2B6D7,50.038,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_043E40FD017DD8D01E43,36.272,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_2E220F24300108AA0136,36.535,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_FFB242C1D001C21C5D05,43.927,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_34D99A07B97F5B87D193,47.902,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_4EBDB8BF89B28D16A7B7,53.061,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_6DF6F70A8694E5E51945,60.322,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_21086B2068CA393B3C9E,53.553,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_B142B79E76C6127BE5B0,42.974,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_BF9F817ABC4090AC3F35,52.568,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_029A679C3036B11A83DA,62.95,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_D141341EA53656672218,25.561,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_5F3FA5DDA14ADBAED60E,23.458,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_3CF13DE4386746ECA9B8,59.599,Boy,Second,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_D412950633B509B9831E,61.471,Girl,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_3D714A8B50F88FBCF769,47.968,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_F412E58823CAC5B84887,62.424,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_014AD4D184535D7ACA08,53.455,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_B2C902679A1B2E54A41B,47.048,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_2C1C3D2E0CE315C957E8,30.916,Girl,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_FE0F6D7F6C9870064550,37.027,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_0731BDBF592C08132A58,60.782,Girl,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_9DDD3259EEF474B0737E,68.732,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_0B3245EC51C41C23A42D,65.545,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_F5EC769AB328FFF7139C,48.1,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_8AACC9A4227ED205A12D,63.049,Girl,First,Upper secondary,,Father,Male,30–39,,,Mother,Upper secondary,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_8CDB8211C7BA321E2B56,39.032,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_4C3D2881046A4EF16336,61.012,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_BBF4E3E5C5F196E532D2,35.68,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_234A1D863E4C05111300,52.042,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_0C32B6B59C7BD067D674,50.038,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_7EE23E06CBD2EE1EB676,50.104,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_5D600C4F0009F530B2D7,63.706,Girl,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_CBF090C78B501D6B0F59,66.235,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_2151D0AE5ADC2D47F683,25.791,Girl,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_AB42C8F82A3751341F26,27.04,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_2EC98BD49F6EF64067A9,53.849,Girl,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_2080CDA63D6BBAF54FD7,30.982,Girl,Second,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_8EAE4D62D2780F53AB7B,57.66,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_409CC2AADDD82597E0A8,50.137,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_CB1EA5AF9C6390346AD3,60.19,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_1E68A94F1810B9307D45,39.656,Boy,First,Postgraduate,,Mother,Female,<30,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_71C4AC3BD5D9477707EE,44.617,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_755726705F6AED8D9596,66.531,Girl,First,Vocational / professional,,Father,Male,<30,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_A6FCA6D7226F0A367BBE,55.656,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_F6341BD1862265C72E71,26.842,Girl,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_C13B23DBF70ECADE6B21,52.732,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_A3B643DAA509BE38F736,48.79,Girl,Second,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_4F3B88B1901537301E95,35.023,Boy,Third,Upper secondary,,Mother,Female,30–39,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_D20D912BD2FBD8B3C4DF,55.492,Boy,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_76AD6E4B7A92041FA0FB,26.054,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_E2823929826C31C6A1DB,67.155,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_F07186B43FE281C5FDEC,42.58,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_FB9495D9DCE91529CDBC,69.422,Boy,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_0586E82C9AEC1B53A9EA,45.668,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_79AD3165FB0B538A7FE3,43.927,Girl,First,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_FC8B6387CE5FEBB4927C,48.987,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_3008F17C955AF07B3515,67.188,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_108285CFB8E41C608B79,33.118,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_41CAFDC05434CAD8A068,29.569,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_E660F4169A66A4575CFC,24.017,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_31D9165DDAAA1FE6CCB6,59.007,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_D402ED1C5F0271788BD0,40.707,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_DE75F04CDE5FDD8714E9,43.106,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_74D5807885BFC7EFF4CC,38.637,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_A2C926244D1A42C7FD2A,46.194,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_C8C5EA98281806181E8C,50.038,Girl,First,Upper secondary,,Mother,Female,30–39,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_8EDA3269252B4BC670FC,25.101,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_00E6D6B9BB6388D05451,40.641,Boy,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_B845DDE143C3F312A0F4,24.345,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_F7BBDFAB0F1AC2136D7D,61.209,Girl,First,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_49E1C1B4D4EFCEB31B7F,55.755,Girl,Second,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_D22222C1E68E1B16B8FA,32.001,Girl,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_7B2FA7314B9074C58FC3,39.722,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_46333D86E6ED708D4D55,62.391,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_4CAA29C01323B44FEAF5,27.598,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_A597C7794B6E95915126,36.239,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_3429E5E978599119BAA7,63.541,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_1DC25D1B2D067524BC8F,36.633,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_4C3019753720A1C42713,48.855,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Curiosity,CN_B245FC3B899BF7CC2A14,36.732,Girl,Second,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_54071F98832CEF02C9A0,56.412,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_79DF97E1EF234E8068C4,49.545,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_58DBA09F24DF24FEDC07,39.13,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_B28F66D1472FF5BC6ADB,50.498,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_0F9567C788EAC55FB73A,33.972,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_1D1C11BE76BBC4F3A2D1,57.266,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_A09F9619F7463371382A,26.35,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_CEC8296A9DAF93BFA083,38.375,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_38D843741381E5474CF4,36.666,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_BDDB79BC4085F48ABFA7,42.908,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_8D5A61A5B97C0273DE59,37.75,Girl,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_8352BD9EF8EF1E5FC2BF,41.036,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_ED04AD650289C50523C5,42.054,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_C25C3CCD50BA9AA086C2,36.338,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_6B645F4340E3BB87B4BB,44.715,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_E0C6541DE1FD5795170E,48.625,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_D120BA9D81CFED4C4DD1,48.001,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_46D38F1D1E56A9F9EB29,48.56,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_6FEF50A50B6830ED0287,30.062,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_5FA0C2E24BC785914EAD,36.042,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_CD55787B54628E150C3E,36.305,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_A0C4F2F7D1E846ACBEEF,59.862,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_F76E973585801456AF01,35.056,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_5041A75FCA2379DBA405,38.999,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_8307D8ECB727421C2A0A,49.611,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_3431E1FC969311C0E9BA,66.465,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_9987F483C5646D95AAAD,48.757,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_3E6F35C138C0140D51FD,30.982,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_DF053662312586F8C6E2,48.527,Girl,First,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_91EF166D1748679055BF,63.804,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_5577AA03F5889086DF87,26.054,Boy,Second,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_5FCF842725E02C937CD3,36.765,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_529476CED919E42D914A,23.984,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_D76602CF68B3F1F17EFE,25.528,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_E1061140B058A34D6A27,36.239,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_D5E6D60EAEF579F388ED,65.381,Boy,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_BCF20FB1101DFC0E3739,48.987,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_CAD3A04208B34375C52A,36.535,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_68D24192A35FD3264D30,27.467,Boy,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_B02B9A3B45C09D95F563,40.412,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_522CB58D8075641A5DB9,50.925,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_9C55F1561B1AFAD0FFFF,45.997,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_96B8592D26EF8060E3BF,54.375,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_A4305AB71712C536FAAB,54.638,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_15EC26CD7852F3F20C67,53.093,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_5DA9BA4B7AD35A36A80C,40.51,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_A4B38E8D6C9A6E48F7F7,65.381,Girl,Second,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_61425BECE70973D69766,27.04,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_6F81AA00C3BF17BB06C3,42.153,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_4C4DB3377BFAB49492D7,64.888,Boy,First,Postgraduate,,Father,Male,<30,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_AE70E700B4FDBF654A41,24.608,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_F5525C3A9BC45E2E0DE9,26.514,Boy,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_6FD69FF3E1EEEE67C9C7,33.216,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_9E7FD99EE2FA06AE8038,36.009,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_602636187C2C311AF9D7,47.705,Boy,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_3213E709ECEA717194F6,30.029,Girl,Second,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_73C8D1839657DB9DD5EC,33.972,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_165B4DD8C81780037A85,36.469,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_47F072EAB9CBA1FBD3D3,44.748,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_A1AD5358D5DE0A33B733,51.615,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_FDAF1E2596F0B62A0425,64.363,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_FB55AFCD4F1891805007,62.194,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_BB87A1617AE5E94C5CEF,38.046,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_7B1F9F9D9CED5B7B9037,55.558,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_ACE18E991F6DF98CAB5C,25.627,Girl,First,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_74B422C75E37D3B21D17,47.902,Girl,First,Postgraduate,,Father,Male,<30,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_B70C7381F1E370555749,46.523,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_944044C6A38C6A98AAB0,62.589,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_792BAD3731DA5F102268,46.391,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_8A0198CA1E34A73DD88C,51.484,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_1686D603D10869714D20,28.419,Boy,Second,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_5888C51099A46AA850B1,61.669,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_2F2699C22C7646B387BE,62.983,Girl,First,Upper secondary,,Father,Male,30–39,,,Mother,Upper secondary,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_36A6209766B1704E1FDA,39.623,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_FFAD21CCC0780C5EF7FD,48.56,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_C7922F0EE7771AA4949E,47.574,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_2A26C452166965FA1B80,48.034,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_6DBFD891AD59586A7B7C,49.348,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_6C40AEA9C96E6CEA9A7D,25.2,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_B333B33537A364271B90,64.79,Girl,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_FCD239574BE18C5E52E3,51.122,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_0007F679905C86BE1334,52.535,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_1E2D2E9DE8BEFED82FD1,60.782,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_DE3CA7E3AB625BCAC73B,24.805,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_3CBB3B2CDF73E67EFC8D,49.019,Boy,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_644CD020815DA832E2A2,56.576,Girl,Third,Upper secondary,,Mother,Female,30–39,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_83B5B60F9EF364C85F53,46.063,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_CFF925586C7B6B8A07DD,49.972,Girl,First,Upper secondary,,Father,Male,<30,,,Mother,Upper secondary,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_542E88B81491D5993593,59.664,Boy,First,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_0F6C9BCCC6EA483E3CC1,48.362,Boy,Second,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_0D3533266EF547AC5F54,40.609,Boy,First,Upper secondary,,Father,Male,30–39,,,Mother,Upper secondary,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_2A4CF11534C0BB282EFE,28.781,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_98AB02FC5E9DF2AEC8D0,50.925,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_DBC270386D6DAB0196E8,48.987,Boy,Second,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_A7F59B73B2019E8F8D5B,61.044,Girl,Second,Upper secondary,,Mother,Female,30–39,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_C9F8B2DFCEB21BD23791,51.089,Boy,Second,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_9013309F670AE7EAD8DE,63.279,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_081EFD2C4FFCE739F5E0,58.942,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_6F58A6FE4AB86E9A4B20,56.05,Boy,Second,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_DA2EB7A433E9C337B446,35.023,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_0C389488A7ACD3254DD6,41.923,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_58C2C0A5F8F4D97E26B2,48.001,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ECCQ,Desirability,CN_BCE354BFD60BDE2029C9,22.867,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_D24FF1B8D4E08AF08535,7.031,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_55A34FFDA13CBE89432F,5.815,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_3500756829B6F71AE074,7.984,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_D4690873163F24978EB0,13.011,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_64555D3950EA0DE8BE97,9.134,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_A953351694061444BCC3,19.417,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_4ADB39F1F75A1638DA31,20.239,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_C566F79864531B2B89C1,7.359,Boy,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_7814C388CC5A94B0D97D,14.489,Boy,Second,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_6DD1353D4A47F6AD6C56,22.407,Girl,Second,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_BB7BFD7B0FC15625D02C,12.255,Girl,First,Vocational / professional,,Father,Male,<30,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_FCC6E47E518DAB935154,15.015,Boy,First,Postgraduate,,Father,Male,<30,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_2CCD3F37FF8BD0F4A049,16.822,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_E096249F33451A3A07E6,10.251,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_1152D58B5D83603FF418,23.294,Boy,Second,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_A2BA102AC02D82736F24,8.509,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_F77B124D01675E8FAFE4,15.935,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_3AD1861EDD0FC6415BA9,13.438,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_8F2C8D78EC4A36CCFCE9,14.785,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_A044B452C3B67DA05A30,11.598,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_FD5284B1D7B6DACD9BA6,14.588,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_C8EF310A1C7B06B9435C,15.015,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_3527EF217A5D14CE4C04,21.454,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_3D8AD55770EABEFF3B19,17.545,Boy,Third,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_D61B642CB3B956B013B8,18.99,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_A53E55DB155CC76C0DD2,7.031,Girl,Second,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_6A400E0B109B090C15B2,23.13,Boy,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_B37477F0B697C614FD98,13.7,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_42A13728DC113EF7A785,15.015,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_3886EFCCF3E92EA3F940,13.339,Boy,Second,Undergraduate / bachelor,,Mother,Female,40+,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_85C13A1C8D93728B1711,11.795,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_C339061A7D8AE4E44799,18.53,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_CF5BF89626BDE11A706E,14.029,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_5445E10B08FAAD0BFCF3,14.555,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_6462AC75015C13B40499,8.509,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_A97742C59DD06A675B5A,20.896,Girl,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_523A8068ED4C700A25B7,9.988,Girl,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_4B651F601FBC48234BFC,9.988,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_6524168A74E78BABB27F,7.195,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_9E667BD1D1442FD1D845,16.625,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_E856B6E436D6B0BA3334,8.017,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_E15A9387D09364337E04,18.366,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_037045644B7341083BE1,9.002,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_F5F53B35424619F73C4E,11.992,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_FA70F981E09FBEEB3BCE,22.013,Boy,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_C906159C73C428E98938,18.234,Boy,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_64F839BC12D9931034A4,16.099,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_D2C28B4BADAF1348E2B9,11.368,Boy,First,Postgraduate,,Father,Male,<30,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_57C2617C10CCBEEA4555,18.267,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_9D91192F80FB14747F22,6.571,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_6BF033DE9B70ED6F553F,18.629,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_8CF5EC980B35DC61158A,19.91,Boy,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_B09181BEEA21E83BCCCE,17.085,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_B8BA18C04136EB1585D5,14.226,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_18E0DBC4030596CFB6EC,12.682,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_31BE80DEDDE50DC21ED9,21.027,Girl,First,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_9C974DA46399361636F8,17.019,Boy,First,Postgraduate,,Mother,Female,<30,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_06F30789AF3B635BA5A4,14.029,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_AB8B8CB3DCF461CC841D,15.475,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_A26A5523939FB87E5C3D,26.908,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_0B2EB8EBE5E0D63368A5,14.489,Boy,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_2E5046AB8757E525E0FB,12.781,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_C0D2D9B446FED27BE9C6,18.037,Girl,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_85650C78EC322FBD06CC,19.582,Girl,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_8425F98BF8D4C4A515EC,23.031,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_A599EF54A494683681CA,14.883,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_30B3F90A0A7FC16A2AAE,20.206,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_0AFCF9DD2947B74D1BB1,5.75,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_6FEDFCF34696D62BFF4E,23.787,Boy,Second,Postgraduate,,Mother,Female,<30,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_72F87BAABDCBBDD999CB,11.926,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_50E0531D69BFB84BB4DB,15.737,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_9808CA67AA1AE7E064A8,22.768,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_0CAA29A349A1AE49318E,16.625,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_2BD914344E586E861DDB,15.146,Girl,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_D08A3061B422E687EE58,10.842,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_5D21C49514AA534BFFCE,15.508,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_EFAFA2BDC6D51293CCE1,10.316,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_F45D3140EF2AD82A4C2D,9.232,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_EDEB322FFBB225B04E54,15.639,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_50D5FB2574E499731072,7.327,Girl,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_D5423134BBC9BC9A369E,20.074,Girl,Second,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_4B0CEC49E4E0093A7A48,10.382,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_CE8A3D475BAFB408614B,19.483,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_4924A6FC0AD1A91B6C83,14.62,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_C0C444B56ACE09FB7A4B,11.466,Girl,Third,Lower secondary or below,,Mother,Female,30–39,Lower secondary or below,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_BF70772A648D13B37919,14.226,Girl,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_59DF976498C2C3834969,15.573,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_495D6362BAA827943F4F,23.031,Girl,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_9395136CBABE40E0AAA7,19.943,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_C9C44DDF00B2D27EF383,16.559,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_FB49408527802DB47F84,20.009,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_1080A5B6B5FD51050C40,15.015,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_BD59355458CCD0B4E0A7,14.456,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_8C10707DDE20BCE9EB60,15.54,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_5DCC05156B744621C721,21.191,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_1089A587A8C29F590AD3,12.912,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_39537FBA62D038B08AAF,11.828,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_0D0BE431578091BB8631,8.509,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_67B545ACDD1B87EB7716,7.984,Boy,First,Upper secondary,,Mother,Female,30–39,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_06402993B67041114139,23.853,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_3AFF83DD2582973DD805,22.078,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_4D6C972469124797944E,13.011,Girl,First,Postgraduate,,Father,Male,<30,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_9AA9237C5F24171F8A19,9.331,Girl,First,Lower secondary or below,,Mother,Female,30–39,Lower secondary or below,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_DB7E0ACAF1F5909DC650,22.834,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_BEC5CA2ED0BDE4EC5070,15.015,Boy,First,Postgraduate,,Mother,Female,<30,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_8ECCA2A5A9F7149A2D3A,5.815,Boy,Third,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_812B04A09B33B04FBB53,26.875,Boy,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_12E276A3008C3ECCF276,18.694,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_8CB30709D23B7A829C6B,15.179,Boy,Second,Upper secondary,,Mother,Female,<30,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_5EE3FF9B128855E8F6D6,11.992,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Curiosity,CN_5CFEDDC0B617EEA4A578,11.565,Boy,Second,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_CDD5706152617BEB4F0C,16.395,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_3E534CB0E71C81B3D1D8,7.655,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_33C5A443B1B12746C3AB,22.966,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_60B882FFAEA669662877,15.212,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_EE321F21165D97F01B8D,8.477,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_DAC9BBCF0850E59DECB3,14.029,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_8C091CB849A6D2C4D6A6,17.019,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_C4E64D9DBA24DF564E1B,19.023,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_21DA1654B74743746003,15.475,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_53B6DE9F52FFD6DA126B,14.029,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_75CEDCBA181C76386CAA,19.614,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_5B3F7824F252DDC328F3,20.929,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_5CCFEFF6ECE565D2A7DA,1.741,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_49356674EB3508D1CA9D,16.657,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_F8F11CAFE1CDACA4F192,13.011,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_35638DCDE98BFA4893B2,6.242,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_1E46D0DDB7457722187D,11.992,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_2464C262BBEE17824BB4,9.988,Girl,Second,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_66DADFB6FBD62B25F6C1,17.019,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_7C9C0DE755F3D8D06339,10.119,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_17453CB4467BB715562A,8.181,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_DFD348F053002D817FDD,15.935,Girl,Third,Upper secondary,,Mother,Female,30–39,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_93E4CE5CAFC87F981499,22.374,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_5F68DD6BD4517BE0E77A,13.832,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_56C99282DA048529A735,16.033,Boy,First,Vocational / professional,,Father,Male,<30,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_6BEBDEDB6DA15F072C21,15.146,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_F10381A503CCC9DC02A7,14.193,Girl,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_0F8D770F1A020BD54DC3,14.226,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_96FEA5BA55AFC4E63FE6,18.037,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_ABF6C6D748FC1E099A7B,21.126,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_7A0FB08CAFDCE4DFEE86,7.852,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_A67E313E47757DAEAE7A,7.557,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_C6553D8FCE66CF88A71C,24.51,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_5492CB66DBE964A3144F,13.011,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_9CC11074DCE832F012A9,16.329,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_BDB49D043F3CC447A1B3,8.214,Boy,Second,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_285D340A82226F8E2C51,8.739,Girl,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_F4D3E69182F4DFA49DAA,16.559,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_6D157DB50894957D2517,13.963,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_1AF11BB5868D76F32B3F,15.606,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_DF83FA898DB2BE83396D,20.009,Girl,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_4C045397D0F9419FC80A,12.518,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_FD0EC9B6ECEC6C63A5C9,15.409,Boy,Second,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_F0AD198C02B3CB442F8C,13.602,Boy,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_E93A770D6D73370AA07C,13.241,Boy,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_A816424A085E3401F919,15.475,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_AE3FB7818549F9E323A5,21.356,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_4557874EA55093CFB826,10.284,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_001356D9D0F2881293B4,14.226,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_8033B950866A6970F96D,13.339,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_DA94E5D13FA46337ACA0,20.929,Girl,Second,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_A5A8320B904F7E9C6205,12.222,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_F9779647F7EA72D73B51,15.179,Boy,First,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_A06464B9F0CBA2136E2B,6.834,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_6644185876C9557A83DA,12.813,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_5BC181F403D16B356A0A,12.879,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_BD98BE0B33221B09CB79,6.702,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_35629CF836F5F47468FD,6.44,Boy,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_83741E95700543FDEF8E,10.546,Boy,Second,Upper secondary,,Mother,Female,<30,Upper secondary,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_C7A15CB064B5D587EC5B,27.927,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_46839F9198DFA050B530,9.659,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_46510E272089F0244915,24.017,Girl,First,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_46892106B219216FC1A3,11.006,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_23AB110AABC92E3805E0,6.965,Girl,First,Postgraduate,,Father,Male,<30,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_690A01FC1E646F1BD9EB,15.606,Girl,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_4230EF7F2B6EF249638A,24.838,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_4C6AD30708387C8DCF50,12.255,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_79D06A22846C2B4BE13D,13.602,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_6DFBA2B64DF6C68EF67C,6.275,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_FA45634F9BBDA0E1D510,5.027,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_DBF258586AD2034E2780,21.848,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_BBAED1FF24A35B26F397,22.144,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_525D80E51C21FD5DFA9E,22.538,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_56CF9B1F14E5894C4784,11.828,Boy,Second,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_526A7CE2732207F8E9D9,12.518,Boy,Second,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_3826A3DBCF424AF4C762,18.366,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_52578310F93E67F723E3,15.672,Boy,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_B3C113FF2C1D1BAB0383,17.413,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_3403AC19B583F4B4B1A1,7.327,Boy,First,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_454D9830CDF4519F4571,11.138,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_BA456401DB638C965153,11.828,Girl,Second,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_BCBF32406A804AA24E6C,8.115,Boy,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_E65BC90DB36D360996BF,12.583,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_4D4D9CECC947DE15C935,19.713,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_AB89AC057555356CB9FE,17.413,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_12EB4D5410CBCC26FD10,25.035,Girl,First,Postgraduate,,Mother,Female,30–39,Postgraduate,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_C034C24A91AAF7ADE602,26.842,Boy,First,Vocational / professional,,Mother,Female,30–39,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_B38A90600D7A963A999D,8.707,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_861D19DD790E89C2AC4F,22.9,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_DE8F3C160A72011E8828,21.389,Boy,First,Postgraduate,,Father,Male,30–39,,,Mother,Postgraduate,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_1D9C3D2C7982CB389343,11.335,Girl,First,Vocational / professional,,Father,Male,<30,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_ACB5FBEF3B8C3E76A787,9.265,Girl,First,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_A7A61EB15383ACA8EC2B,22.67,Girl,First,Vocational / professional,,Father,Male,30–39,,,Mother,Vocational / professional,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_E81544E0621D35D4036C,23.853,Girl,First,Vocational / professional,,Mother,Female,<30,Vocational / professional,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_F6EC305D20AA02642E94,22.867,Girl,First,Undergraduate / bachelor,,Father,Male,30–39,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_3BF9D06CF837DD1EFC19,12.912,Boy,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_E666AE06D4F33C1BAA49,23.623,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_E9AFF1AC5717D1CA6973,23.853,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_5B4EF51B5C6DED874699,19.417,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_90BFFD21F2890F4705B3,18.694,Girl,First,Undergraduate / bachelor,,Father,Male,<30,,,Mother,Undergraduate / bachelor,Mother,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_55BD4651A95E0B5D872A,8.181,Girl,First,Undergraduate / bachelor,,Mother,Female,<30,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included
+CN,ITCQ,Desirability,CN_A002931D577CC9C8F1C1,18.727,Girl,First,Undergraduate / bachelor,,Mother,Female,30–39,Undergraduate / bachelor,Mother,Father,,,Unknown,Unknown,included

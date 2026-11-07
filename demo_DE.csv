@@ -1,0 +1,161 @@
+Country,Questionnaire,Condition,Participant_ID,Age_months,sex,birth_order,mother_education,father_education,responder_relation,responder_sex,responder_age_band,responder_education,responder_education_source,other_parent,other_parent_education,other_parent_education_source,monolingual,language_group_broad,exclusion_reason
+DE,ECCQ,Desirability,DE_D090BEEC339A661C738C,45.997,Girl,Third,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_12729B331DA0E032D515,28.058,Boy,First,Undergraduate / bachelor,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Undergraduate / bachelor,Mother,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_130CBB71FF23F7289501,8.214,Girl,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Desirability,DE_665C764D889791960813,58.383,Boy,Second,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_E0D1CA45E274CAF1E647,57.233,Boy,First,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_7A2295A892EDCF0F7445,50.564,Girl,Fourth or later / other,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_E3DD3BE58CB4818147F7,42.58,Girl,First,Vocational / professional,Vocational / professional,Mother,Female,,Vocational / professional,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_CD0755654CB81CA7949E,54.375,Girl,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Curiosity,DE_CF0974C404FCE509EF56,31.672,Boy,Second,Undergraduate / bachelor,Postgraduate,Mother,Female,,Undergraduate / bachelor,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_F3B17696F2B9519A5269,50.498,Girl,First,Postgraduate,Vocational / professional,Mother,Female,,Postgraduate,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_36237682E384ACC7CD11,36.732,Girl,First,Lower secondary or below,Vocational / professional,Mother,Female,,Lower secondary or below,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_2701F8822F73AFF98977,20.173,Girl,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_E6A6BA3CA7495551CE4A,35.319,Girl,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Desirability,DE_CE56485CF47CFE36D02D,48.954,Girl,First,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_5AD8132280647249AA83,14.588,Girl,Second,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_60CE7FE40EB319717AE9,33.151,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_FA817E15DD61D7154B2E,18.892,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_E92C68A1CF5146041B4D,33.348,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Desirability,DE_BDD4B95D17E935AF0DAA,54.309,Girl,First,Postgraduate,Undergraduate / bachelor,Father,Male,,Undergraduate / bachelor,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_24C1AC1F5988430B23E2,25.068,Girl,Second,Undergraduate / bachelor,Postgraduate,Mother,Female,,Undergraduate / bachelor,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_178AA38CED8F26E238B1,0,Girl,First,Vocational / professional,Undergraduate / bachelor,Mother,Female,,Vocational / professional,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_5B965D5B9830FBCC955D,10.546,Boy,First,Postgraduate,Vocational / professional,Mother,Female,,Postgraduate,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_1663B9D8ADE0FACD2C22,44.551,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Curiosity,DE_B924AB0A1D0C3D01B5E6,44.683,Boy,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_8494ADFB9EDB6971CE47,51.944,Girl,First,Vocational / professional,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Vocational / professional,Mother,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_016AC53B43DD6D1C61AC,25.561,Girl,First,Postgraduate,Vocational / professional,Mother,Female,,Postgraduate,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_A0A1954243D6DBDF8BE9,35.352,Boy,Second,Other,Lower secondary or below,Mother,Female,,Other,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_31CFCAF1DDD4BAC676B2,50.268,Boy,Second,Other,Other,Mother,Female,,Other,Mother,Father,Other,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_A60B99A0E0664A1D97F3,53.192,Girl,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ITCQ,Curiosity,DE_849DA143B1186C5B6EC6,17.512,Boy,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_DF9267943CFB641C7505,9.429,Girl,First,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_3CBE86CFF34F31EE7665,23.327,Boy,First,Undergraduate / bachelor,Postgraduate,Mother,Female,,Undergraduate / bachelor,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_76032B2D8BDD2E90D812,27.27,Girl,First,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_1B7E59DC3064F56BB2E7,37.356,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ITCQ,Curiosity,DE_1D3D01C6E50B7C26BEB4,19.417,Boy,Second,Vocational / professional,,Mother,Female,,Vocational / professional,Mother,None reported,,,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_EDDF92CACAA52AFB93D1,28.584,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_78FE1200417DE2832F38,19.647,Boy,First,Postgraduate,Vocational / professional,Mother,Female,,Postgraduate,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_F070FBAD646AB6E37FF0,21.881,Boy,First,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_BADCDCDB18DCED804854,0,Boy,Second,Vocational / professional,Postgraduate,Mother,Female,,Vocational / professional,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_E01800F20B42D7DD25A5,20.041,Other/Unknown,First,Undergraduate / bachelor,,Mother,Female,,Undergraduate / bachelor,Mother,Mother,Vocational / professional,Mother,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_7B361154999CF90264F1,20.896,Girl,First,Vocational / professional,Vocational / professional,Mother,Female,,Vocational / professional,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_4E2F3724F2C5E27478B3,20.896,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_EEFEB97C0E929CAF0759,59.369,Boy,First,Undergraduate / bachelor,Postgraduate,Mother,Female,,Undergraduate / bachelor,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_6148E37B28A63B1A0AFA,70.572,Girl,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,No,Multilingual,included
+DE,ITCQ,Curiosity,DE_15D3BEACD1D1D3982823,14.752,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_8C9A16814ED0AF8C11F7,52.666,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Curiosity,DE_553E21B546A24AEF99D6,37.455,Other/Unknown,First,,,Other/Unknown,Other/Unknown,,Undergraduate / bachelor,Other/Unknown,Other/Unknown,Lower secondary or below,Other/Unknown,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_62DEDA2CF3A7DE871458,53.718,Girl,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_DE186F5748FC5D438D55,29.339,Girl,First,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_800FDD9D4C962FE64BD8,47.311,Boy,First,Undergraduate / bachelor,,Mother,Female,,Undergraduate / bachelor,Mother,None reported,,,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_85C11BF0526404506E1E,47.147,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Curiosity,DE_DD59779135FBF20E3A78,29.208,Boy,Second,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_7FB167EC8327D2AB6AD8,53.356,Boy,First,Lower secondary or below,Lower secondary or below,Mother,Female,,Lower secondary or below,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_4C858D95DAFA10194BA5,34.99,Boy,Second,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_5074F0BB0A8D06B24B03,56.675,Boy,Third,Postgraduate,Lower secondary or below,Mother,Female,,Postgraduate,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_A32D485A3497D0CDDA67,56.773,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_2F81EF82D19AAE2A0ACA,21.848,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_45F8458ACEC062C73259,35.22,Girl,Second,Lower secondary or below,Lower secondary or below,Mother,Female,,Lower secondary or below,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_DEE481A5B5E8BFF17D92,35.779,Boy,First,Vocational / professional,Undergraduate / bachelor,Mother,Female,,Vocational / professional,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_EA84670D147303BE35E4,51.221,Girl,First,Undergraduate / bachelor,Postgraduate,Mother,Female,,Undergraduate / bachelor,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_8D29F53ADB04B22A599A,28.978,Boy,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_FA86911EBD95CFAB7393,42.81,Girl,Second,Lower secondary or below,Lower secondary or below,Mother,Female,,Lower secondary or below,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_58D43C3BA0B5A32FC3DB,36.108,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ITCQ,Curiosity,DE_F076332CA67EEC8B4945,16.526,Girl,Second,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_B95EB0681D3FD755D3E2,56.182,Boy,Second,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_6985AD0F9EE24B5A6808,39.656,Boy,First,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_E43AA29869510872759E,23.853,Girl,Second,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_EACD5D1B75D7E7D3B4E2,22.407,Girl,First,Vocational / professional,Vocational / professional,Mother,Female,,Vocational / professional,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_521BC051BDF383002CF3,17.972,Girl,First,Postgraduate,Vocational / professional,Mother,Female,,Postgraduate,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_BB0F9C6E4459EF630718,22.67,Boy,Second,Postgraduate,Lower secondary or below,Mother,Female,,Postgraduate,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_AE36C7448E70C0A846EE,17.183,Boy,Second,Vocational / professional,Undergraduate / bachelor,Mother,Female,,Vocational / professional,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_A22421A0A9956DCD35D0,49.677,Boy,Second,Other,Vocational / professional,Mother,Female,,Other,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_FE5A5DC2BACD34716A9A,36.6,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_383CD0DE1123CD0244EE,34.826,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_9570DA60A814BA76359D,37.356,Boy,Second,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_8A2005667DCC877B15FC,37.225,Girl,Second,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_0DECE0283CDCB1F8334C,24.378,Girl,First,Postgraduate,Vocational / professional,Mother,Female,,Postgraduate,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_7F4DFFA9AC813B1C605C,60.059,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_15E9F0A9019F20362E6A,52.502,Boy,First,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_7E265642AD9352BA6865,23.13,Boy,First,Vocational / professional,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Vocational / professional,Mother,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_6690388F7439253B8191,28.847,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Desirability,DE_E6CA1FB2F04ECA456ED9,56.445,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Desirability,DE_85D2F9146B3295781BD3,67.812,Girl,First,Undergraduate / bachelor,,Mother,Female,,Undergraduate / bachelor,Mother,None reported,,,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_27892311AA9F56F31ED3,38.112,Boy,First,Vocational / professional,Vocational / professional,Mother,Female,,Vocational / professional,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_78A8961E196989F11B77,17.019,Boy,Second,Postgraduate,Vocational / professional,Mother,Female,,Postgraduate,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_72058E519BA54C04F2AE,9.988,Boy,First,Postgraduate,Vocational / professional,Mother,Female,,Postgraduate,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_8D9D84E53A4BC0EF995A,50.761,Boy,Second,Vocational / professional,Undergraduate / bachelor,Mother,Female,,Vocational / professional,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_02E9CD7AC784F28F411A,51.122,Girl,First,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_E40E852E9492DB33DF37,45.077,Girl,First,Lower secondary or below,Lower secondary or below,Mother,Female,,Lower secondary or below,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_2D82C913B25F1D8A6691,31.541,Girl,First,Vocational / professional,Vocational / professional,Mother,Female,,Vocational / professional,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_C4ADFE678F70C5805B67,11.598,Girl,Fourth or later / other,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_C6B9827B1E44ADDE4D9F,7.064,Boy,Fourth or later / other,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_D9F2883EC4B7A2FBB00F,8.345,Boy,Second,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_91F0B27513782E537A2F,8.739,Girl,First,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_DFF7EDB189FB2DE95418,51.056,Girl,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_0B769A150F86C6695C2B,29.372,Boy,Second,Vocational / professional,,Mother,Female,,Vocational / professional,Mother,None reported,,,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_1576BF8949EB707A0391,27.96,Boy,First,Undergraduate / bachelor,Lower secondary or below,Mother,Female,,Undergraduate / bachelor,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_DC864A29DF24BEEC4DAD,13.175,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_FD6B9C55F9585EEA5AF0,13.175,Boy,First,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_399E5AE35A0B522EA634,41.923,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_5D29A07F196CDD4BFD04,0,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_344DC5866BAF403704C9,44.748,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_3009ED446258DA24067C,52.108,Girl,Second,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_294A6A6648106318481C,31.344,Girl,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ITCQ,Desirability,DE_E71207D2EBADE61817F1,18.99,Girl,First,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_2668CD8AECC7F07C730E,32.658,Boy,First,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_DAA717223FF0ECB91ADE,34.728,Boy,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Desirability,DE_8F30B2DF05D2266A7880,34.005,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_30F9F0FAC92621BEA599,52.831,Girl,First,Other,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Other,Mother,No,Multilingual,included
+DE,ECCQ,Desirability,DE_BD6349206B8C11D85761,54.933,Girl,First,Lower secondary or below,Lower secondary or below,Mother,Female,,Lower secondary or below,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_68929301852E0F3D9290,22.473,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_695CB4475C671633616C,22.9,Girl,First,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_051FC6462BAC5ABA5CB8,35.089,Boy,First,Undergraduate / bachelor,Undergraduate / bachelor,Father,Male,,Undergraduate / bachelor,Father,Mother,Undergraduate / bachelor,Mother,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_9B9A31F504AB03398358,11.269,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_1C11DC769B6985D240D2,11.269,Girl,First,Undergraduate / bachelor,Postgraduate,Mother,Female,,Undergraduate / bachelor,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_5115D42B91672A2BB914,31.409,Girl,First,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_F3C7181687B6CB42274E,55.36,Girl,Second,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_AB7C4F222E006F8C3784,37.356,Boy,Second,Undergraduate / bachelor,Postgraduate,Mother,Female,,Undergraduate / bachelor,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_9C51A78ABA83FB63320B,43.434,Boy,Second,Vocational / professional,Undergraduate / bachelor,Mother,Female,,Vocational / professional,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_FAFAD74A27C532D764A3,58.777,Girl,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_72BE8D114CB056EA96D8,37.947,Boy,Third,Lower secondary or below,Lower secondary or below,Mother,Female,,Lower secondary or below,Mother,Father,Lower secondary or below,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_2A30AAEE33F129EC80F4,14.292,Boy,Second,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_40A4A6A0DFA270689371,36.403,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_ED806C4E91A2C1AD238A,28.157,Girl,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_A5BC78F15962F3067B41,47.344,Boy,First,Undergraduate / bachelor,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Undergraduate / bachelor,Mother,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_1525867DB146BFE1F917,34.399,Boy,Unknown,,,Father,Male,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Curiosity,DE_632E29C8ABC05011CA98,46.818,Girl,First,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_F02E264194AC5FE869F3,36.765,Boy,Second,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_A8BB33FD79E973A1F665,28.255,Girl,First,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_E3B7043C0AAD8B988183,10.119,Girl,First,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_240C3C94AB0539A8E815,48.527,Boy,Second,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_CE42C81F4B1680855995,38.046,Girl,Second,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_C95AA0C187F1791792A9,22.9,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_52E8B80BB5E457EF0E02,16.789,Girl,Second,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_09044637AAF2B74D1C96,22.111,Girl,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_D2220C3AC81CFD447443,20.37,Boy,Third,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_E83F460FD4ECAAD9EE66,0,Boy,Second,Postgraduate,,Mother,Female,,Postgraduate,Mother,None reported,,,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_75C6FB69BE6CBE9DB47F,18.53,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_3536EC2CFD3C61FF9BD6,36.863,Boy,Second,Vocational / professional,Vocational / professional,Mother,Female,,Vocational / professional,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_AF04046936B1CA828B09,64.264,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_C4DF420F14FA6003C545,35.845,Girl,First,Postgraduate,Undergraduate / bachelor,Mother,Female,,Postgraduate,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_984A47E6852929D2833A,12.321,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_DEF131491854E0A2DB49,60.19,Boy,First,Vocational / professional,Vocational / professional,Mother,Female,,Vocational / professional,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_60D7F546F5256AC6FF8D,20.633,Boy,First,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_F4E47B9FE403AF837341,7.885,Girl,First,Postgraduate,Postgraduate,Father,Male,,Postgraduate,Father,Mother,Postgraduate,Mother,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_2D3BAB3026730B5CA349,53.521,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_A7549E7934A6FCC13020,12.715,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_F4162DC89886F1179C68,31.475,Girl,Second,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_A8D8D7CDC6E267B36E37,49.315,Boy,Second,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_9CF23F645A356AD585D7,16.822,Boy,Second,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Curiosity,DE_3EF11DCE601B452FD795,40.641,Boy,Second,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_3195E0E7B79BC9D30FFF,63.738,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_6912D63E4D7985BA5C15,51.254,Girl,Unknown,,,Mother,Female,,,,Other/Unknown,,,Unknown,Unknown,included
+DE,ECCQ,Desirability,DE_A061C2919B3A7CBE93CF,23.327,Boy,First,Undergraduate / bachelor,Undergraduate / bachelor,Mother,Female,,Undergraduate / bachelor,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_50F761050E70060F1883,22.801,Girl,Third,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_EDF6583580C65CC6EF14,17.347,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_BC93DFDC9B0A269EFC2A,10.251,Girl,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ECCQ,Desirability,DE_166F47167BF3F76FD139,60.289,Boy,First,Postgraduate,Postgraduate,Mother,Female,,Postgraduate,Mother,Father,Postgraduate,Father,Yes,Monolingual,included
+DE,ITCQ,Desirability,DE_14D84E8E8566F3DD00B4,13.602,Girl,Second,Lower secondary or below,Undergraduate / bachelor,Mother,Female,,Lower secondary or below,Mother,Father,Undergraduate / bachelor,Father,Yes,Monolingual,included
+DE,ITCQ,Curiosity,DE_88481B6B3D9516C7372D,0,Boy,Third,Undergraduate / bachelor,Vocational / professional,Mother,Female,,Undergraduate / bachelor,Mother,Father,Vocational / professional,Father,Yes,Monolingual,included
